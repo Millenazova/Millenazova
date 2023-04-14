@@ -10,5 +10,7 @@
 <img aling="center" alt="html5"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img aling="center" alt="html5"src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img aling="center" alt="html5"src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
-<img aling="center" alt="html5"src="https://aleen42.github.io/badges/src/photoshop.svg" />
+<img aling="center" alt="html5"src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
+<img aling="center" alt="html5"src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+<img aling="center" alt="html5"src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-" />
 </div>
